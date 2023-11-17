@@ -1,4 +1,4 @@
-## Hi there 👋
+## run open LLMs like Llama2 on your own machine !
 
 <!--
 
