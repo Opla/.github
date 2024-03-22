@@ -1,4 +1,8 @@
-## run open LLMs like Llama2 on your own machine !
+## Empower Your Productivity with Local AI Assistants
+
+Experience the power of Opla, harnessing your device's capabilities to run cutting-edge, open-source generative AI. Say hello to seamless task management powered by LLMs like Llama2 and Gemma.
+
+![opla-app](https://github.com/Opla/.github/assets/395718/bebc028a-b89c-47b7-a636-8ff289e3a80f)
 
 <!--
 
